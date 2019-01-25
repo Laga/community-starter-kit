@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: DESCRIPTION PLACEHOLDER
 - **bug-high-priority**: DESCRIPTION PLACEHOLDER
 - **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **help-wanted**: Contact me via GitHub
 
 You can also help by translating documentation and reviewing open pull requests.
